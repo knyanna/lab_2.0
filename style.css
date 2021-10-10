@@ -1,0 +1,35 @@
+table {
+    background-color:#000000;
+    border: 2px solid #000000;
+    width: 300px;
+    height: 300px;
+     margin: auto;
+}
+.cet{
+    background-color:#83ebe7;
+}
+.ncet{
+    background-color:#b3de85;
+}
+.header {
+    background-color:#6dd6d1;
+     height: 100px;
+   font-size: 40px;
+
+}
+.nav {
+    background-color:#e2f7d0;
+    width: 960px;
+    text-align: center;
+    margin: auto;
+}
+.footer {
+     background-color:#d6b16d;
+     height: 70px;
+    font-size: 40px;
+}
+.logo {
+width:120px;
+float:left;
+margin:10px;
+}
